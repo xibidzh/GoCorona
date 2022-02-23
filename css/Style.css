@@ -165,7 +165,7 @@ body {
   display: flex;
   padding: 0 0 0 40px;
   align-items: center;
-  background: url(./img/logo-virus.svg) 0 0 no-repeat;
+  background: url(/img/logo-virus.svg) 0 0 no-repeat;
   min-height: 40px;
   z-index: 50;
 }
